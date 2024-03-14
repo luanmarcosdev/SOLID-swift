@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='SIngle Responsability Principle - SRP'/>
+        <page name='Aplicando o SRP'/>
+        <page name='OpenClosed Principle - OCP'/>
+        <page name='Aplicando o OCP'/>
+        <page name='Liskov Substituition Principle - LSP'/>
+        <page name='Aplicando o LSP'/>
+        <page name='Interface Segregation Principle - ISP'/>
+        <page name='Aplicando o ISP'/>
+        <page name='Dependency Inversion Principle - DIP'/>
+        <page name='Aplicando o DIP'/>
+    </pages>
+</playground>
